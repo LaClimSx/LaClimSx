@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClementJosso
+- 👋 Hi, I’m @LaClimSx
 - 👀 I’m interested in Computer Science and video games
 - 🌱 I’m currently learning Computer Science at EPFL
 - 🎮 I occasionaly do some cool stuff for https://github.com/CLICGameStarProjects
